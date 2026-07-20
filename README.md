@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kriptonic003/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kriptonic003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Kriptonic003/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kriptonic003/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kriptonic003/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Kriptonic003/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Kriptonic003/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kriptonic003/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Kriptonic003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kriptonic003/Leetcode/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kriptonic003/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kriptonic003/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Kriptonic003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kriptonic003/Leetcode/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kriptonic003/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Kriptonic003/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kriptonic003/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
