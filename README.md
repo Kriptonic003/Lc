@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kriptonic003/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kriptonic003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Kriptonic003/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kriptonic003/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kriptonic003/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kriptonic003/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Kriptonic003/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kriptonic003/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Kriptonic003/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kriptonic003/Leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kriptonic003/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kriptonic003/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Kriptonic003/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kriptonic003/Leetcode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kriptonic003/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kriptonic003/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
