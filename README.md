@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kriptonic003/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kriptonic003/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Kriptonic003/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Kriptonic003/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Kriptonic003/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kriptonic003/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kriptonic003/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Kriptonic003/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kriptonic003/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kriptonic003/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Kriptonic003/Leetcode/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Kriptonic003/Leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Kriptonic003/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
