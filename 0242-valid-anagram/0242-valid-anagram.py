@@ -1,26 +1,18 @@
-class Solution(object):
+class Solution:
     def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        if len(s)!=len(t):
+        if len(s) != len(t):
             return False
-        d={}
-        for i in s:
-            if i not in d:
-                d[i]=1
-            else:
-                d[i]+=1 
-        for i in t:
-            if i in d:
-                d[i]-=1
-            else:
+
+        count = {}
+
+        for c in s:
+            count[c] = count.get(c, 0) + 1
+
+        for c in t:
+            if c not in count:
                 return False
-        for i in d.values():
-            if i != 0:
+            count[c] -= 1
+            if count[c] < 0:
                 return False
-        return True        
-                              
-        
+
+        return True
