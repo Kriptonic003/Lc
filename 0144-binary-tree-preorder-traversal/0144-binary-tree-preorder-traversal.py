@@ -1,14 +1,14 @@
 class Solution(object):
+    def helper(self,root,ans):
+        if root == None:
+            return
+        ans.append(root.val)
+        self.helper(root.left,ans)
+        self.helper(root.right,ans)    
     def preorderTraversal(self, root):
-        res = []
+        ans=[]
+        self.helper(root,ans)
+        return ans
+       
 
-        def dfs(node):
-            if node is None:
-                return
-
-            res.append(node.val)   
-            dfs(node.left)         
-            dfs(node.right)        
-
-        dfs(root)
-        return res
+         
