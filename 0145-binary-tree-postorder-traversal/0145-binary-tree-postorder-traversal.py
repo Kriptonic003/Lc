@@ -1,15 +1,15 @@
 class Solution(object):
+    def helper(self,root,ans):
+        if root == None:
+            return
+        
+        self.helper(root.left,ans)
+        self.helper(root.right,ans)  
+        ans.append(root.val)  
     def postorderTraversal(self, root):
-        res = []
+        ans=[]
+        self.helper(root,ans)
+        return ans
+       
 
-        def dfs(node):
-            if node is None:
-                return
-
-               
-            dfs(node.left)         
-            dfs(node.right)
-            res.append(node.val)        
-
-        dfs(root)
-        return res
+         
