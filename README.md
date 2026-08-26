@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kriptonic003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kriptonic003/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Kriptonic003/Leetcode/tree/master/0134-gas-station) |
+| [0164-maximum-gap](https://github.com/Kriptonic003/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kriptonic003/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Kriptonic003/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kriptonic003/Leetcode/tree/master/0179-largest-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kriptonic003/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Kriptonic003/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Kriptonic003/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Kriptonic003/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Kriptonic003/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kriptonic003/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Kriptonic003/Leetcode/tree/master/0217-contains-duplicate) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Kriptonic003/Leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/Kriptonic003/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -286,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kriptonic003/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kriptonic003/Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Kriptonic003/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
