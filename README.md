@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kriptonic003/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kriptonic003/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Kriptonic003/Leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Kriptonic003/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kriptonic003/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kriptonic003/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/Kriptonic003/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kriptonic003/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Kriptonic003/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Kriptonic003/Leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Kriptonic003/Leetcode/tree/master/1512-number-of-good-pairs) |
