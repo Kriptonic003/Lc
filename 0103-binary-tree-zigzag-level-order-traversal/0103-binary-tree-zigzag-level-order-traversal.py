@@ -12,27 +12,27 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         q=deque()
-        if root !=None:
+        if root is not None:
             q.append(root)
         else:
-            return  [] 
-        l=[]
-        count =0
-        while len(q)>0:
+            return []
+        count=0   
+        l=[]   
+        while q:
             sz=len(q)
-            row=[]
+            r=[]
             for _ in range(sz):
                 cur=q.popleft()
-                
-                row.append(cur.val)
-                if cur.left != None:
+                r.append(cur.val)
+                if cur.left is not None:
                     q.append(cur.left)
-                if cur.right != None:
+                if cur.right is not None:
                     q.append(cur.right)
-            if count%2 == 0:
-                l.append(row)
+            if count%2==0:
+                l.append(r)
             else:
-                l.append(row[::-1])
-            count+=1    
-        return l
+                l.append(r[::-1]) 
+            count+=1
+        return l                             
+
         
