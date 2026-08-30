@@ -12,21 +12,21 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         q=deque()
-        if root !=None:
+        if root is not None:
             q.append(root)
         else:
-            return  [] 
-        l=[]
-        while len(q)>0:
+            return []
+        l=[]    
+        while q:
             sz=len(q)
-            row=[]
+            r=[]
             for _ in range(sz):
                 cur=q.popleft()
-                
-                row.append(cur.val)
-                if cur.left != None:
+                r.append(cur.val)
+                if cur.left is not None:
                     q.append(cur.left)
-                if cur.right != None:
+                if cur.right is not None:
                     q.append(cur.right)
-            l.append(row)
-        return l
+            l.append(r) 
+        return l                       
+        
