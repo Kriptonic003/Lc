@@ -11,7 +11,7 @@ class Solution(object):
             while s[r] in seen:
                 seen=seen[1:]
                 l+=1
-            seen += s[r]
+            seen+=s[r]
             mx=max(mx,r-l+1)  
         return mx      
 
