@@ -1,7 +1,17 @@
-class Solution:
+class Solution(object):
     def kidsWithCandies(self, candies, extraCandies):
-        maximum = max(candies)
-        ans = []
-        for candy in candies:
-            ans.append(candy + extraCandies >= maximum)
-        return ans
+        """
+        :type candies: List[int]
+        :type extraCandies: int
+        :rtype: List[bool]
+        """
+        mx=max(candies)
+        res=[]
+        for i in range(len(candies)):
+            sum=candies[i]+extraCandies
+            if sum >= mx:
+                res.append(True)
+            else:
+                res.append(False)
+        return res            
+        
